@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
-project(HipsterVinyl C)
+project(VinylStore C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(HipsterVinyl main.c)
+add_executable(VinylStore main.c)
